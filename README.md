@@ -58,6 +58,6 @@ relate to the same community.
 
 
 ## Data Downloads
-- [Black Culture CSV](Assets/black_culture.csv?raw=1)
-- [Black Identity CSV](Assets/black_identity.csv?raw=1)
-- [Black History CSV](Assets/black_history.csv?raw=1)
+- [Black Culture CSV](Assets/black_culture.csv)
+- [Black Identity CSV](Assets/black_identity.csv)
+- [Black History CSV](Assets/black_history.csv)

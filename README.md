@@ -10,8 +10,9 @@ I collected video data using three search terms:
 For each search term, I used a Selenium-based web crawler to collect video metadata and descriptions from YouTube search results.
 
 ## Why This Comparison
-These three terms describe related but distinct dimensions of Black experience. 
-Comparing them allows for an examination of how cultural expression, identity formation, and historical memory are framed differently on YouTube.
+I chose to compare these three terms because they represent different but interconnected parts of Black experience. Black culture often focuses on creativity and influence, Black identity deals more with questions of self-definition and belonging, and Black history centers on legacy and memory.
+
+By comparing them side by side, it becomes easier to see how language and framing shift depending on the topic. This comparison helps reveal how the same community can be discussed in very different ways depending on whether the focus is cultural expression, identity formation, or historical narrative.
 
 ## Word Cloud Comparison
 
@@ -31,18 +32,30 @@ Terms related to race, diaspora, and identity politics appear more often, reflec
 ![Black History](Img/Black_History.png)
 
 The Black history word cloud highlights themes of erasure, legacy, and resistance.
-Words connected to slavery, civil rights, and historical correction appear frequently, showing how Black history is often framed as something that must be recovered or reclaimed.
+Words connected to slavery, civil rights, and historical correction appear frequently, showing how Black history is often framed as something that must
+be recovered or reclaimed.
 
 ## Interpretation of Patterns
-The differences among the word clouds suggest that YouTube content frames Black culture as present-focused, Black identity as contested and political, and Black history as corrective and educational. 
-These patterns likely reflect both the platform’s recommendation system and the types of creators producing content under each search term.
+Overall, the word clouds show that YouTube frames Black culture as expressive and present-focused, Black identity as complex and contested, and Black
+history as something that must be actively recovered. Each search term produces a different kind of language, even though they all relate to the same community.
+
+These patterns suggest that the platform emphasizes different narratives depending on context. Culture is often highlighted through visibility and
+creativity, identity through debate and self-definition, and history through correction and education. This likely reflects both how creators label their content and how YouTube’s recommendation system groups videos around popular themes and audiences.
 
 ## Limitations and Future Improvements
-This research could be improved by increasing the number of scrolls, expanding the number of search terms, or comparing results across different geographic locations.
-Further filtering of irrelevant content could also improve the clarity of the word clouds.
+This project could be improved by collecting a larger number of videos for each search term. Increasing the number of scrolls or expanding the list 
+of related search terms could produce more representative results.
+
+Future research could also compare how these topics are discussed across different geographic locations or over time. This would help show 
+whether patterns change depending on place or historical moment.
 
 ## Unexpected Findings
-One unexpected finding was how strongly entertainment-related content dominated the Black culture search, while Black history content focused heavily on erasure and correction rather than celebration.
+One thing that stood out to me was how entertainment-heavy the Black culture search was compared to the other two. I expected more overlap between 
+culture, identity, and history, but the differences were more distinct than I anticipated.
+
+In contrast, Black history content felt much more serious and corrective, which highlights how differently these topics are framed even when they 
+relate to the same community.
+
 
 ## Data Downloads
 - [Black Culture CSV](Assets/black_culture.csv)

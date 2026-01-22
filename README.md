@@ -16,19 +16,19 @@ Comparing them allows for an examination of how cultural expression, identity fo
 ## Word Cloud Comparison
 
 ### Black Culture
-![Black Culture](img/Black_Culture.png)
+![Black Culture](Img/Black_Culture.png)
 
 The Black culture word cloud emphasizes creativity, expression, and influence. 
 Words related to music, media, and popular culture appear frequently, highlighting how Black culture is often framed through entertainment and visibility.
 
 ### Black Identity
-![Black Identity](img/Black_Identity.png)
+![Black Identity](Img/Black_Identity.png)
 
 The Black identity word cloud focuses on self-definition, belonging, and labeling.
 Terms related to race, diaspora, and identity politics appear more often, reflecting ongoing debates around who defines Blackness and how identity is constructed.
 
 ### Black History
-![Black History](img/Black_History.png)
+![Black History](Img/Black_History.png)
 
 The Black history word cloud highlights themes of erasure, legacy, and resistance.
 Words connected to slavery, civil rights, and historical correction appear frequently, showing how Black history is often framed as something that must be recovered or reclaimed.
@@ -45,6 +45,6 @@ Further filtering of irrelevant content could also improve the clarity of the wo
 One unexpected finding was how strongly entertainment-related content dominated the Black culture search, while Black history content focused heavily on erasure and correction rather than celebration.
 
 ## Data Downloads
-- [Black Culture CSV](assets/black_culture.csv)
-- [Black Identity CSV](assets/black_identity.csv)
-- [Black History CSV](assets/black_history.csv)
+- [Black Culture CSV](Assets/black_culture.csv)
+- [Black Identity CSV](Assets/black_identity.csv)
+- [Black History CSV](Assets/black_history.csv)
